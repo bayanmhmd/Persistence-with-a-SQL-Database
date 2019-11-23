@@ -1,0 +1,27 @@
+{
+  "name": "persistence-with-a-sql-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayanmhmd/Persistence-with-a-SQL-Database.git"
+  },
+  "author": "bayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bayanmhmd/Persistence-with-a-SQL-Database/issues"
+  },
+  "homepage": "https://github.com/bayanmhmd/Persistence-with-a-SQL-Database#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^7.14.0",
+    "superagent": "^5.1.1"
+  }
+}
